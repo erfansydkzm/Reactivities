@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\erfan\\source\\repos\\reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

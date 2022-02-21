@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistence.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Domain >= 1.0.0",
+      "Persistence >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\erfan\\.nuget\\packages\\": {},
@@ -15,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-      "outputPath": "C:\\users\\erfan\\source\\repos\\reactivities\\Application\\obj\\",
+      "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -40,7 +78,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj"
+            },
+            "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

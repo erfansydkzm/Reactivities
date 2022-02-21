@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tB56SKlnOhMRyFA9ITn1ezHoE0JnX8PO9IpqK6EdILDLnlPX7YJlz40AZhtFlmEIwKkxaz6gpxW7IW4CYfTxeg==",
+  "dgSpecHash": "/27VJLcJ7kDSdaC4Kfvs7fW+c3S48vfb2Z9KsdrHoSbD9jf5dcc7d6AJ9/SRiYMZYuApRV9mqpmLMrNdLCMJDg==",
   "success": true,
-  "projectFilePath": "C:\\users\\erfan\\source\\repos\\reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\erfan\\source\\repos\\reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erfan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\erfan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
