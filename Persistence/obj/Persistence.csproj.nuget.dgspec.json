@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+    "c:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
@@ -85,15 +85,14 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj"
+              "c:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -107,6 +106,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
