@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNpeXCkNccY/2IJAWPBPqRrVxWPDCNUB0TSi7zuWNX96lrQbiajtWp7+S0+JI2LEDOyWfRIjBSzQH27rKRpJvQ==",
+  "dgSpecHash": "XwvQ6mx3m9yN/XrA2Kieconc8AWqwKKqMSHnhIDEYYcEQwHWThJVJMP/smq6lpyAgEHO7XIpr+GShV1n/A5pFQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erfan\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\erfan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

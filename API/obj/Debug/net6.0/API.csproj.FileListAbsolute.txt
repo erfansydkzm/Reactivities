@@ -58,3 +58,6 @@ C:\Users\erfan\source\repos\reactivities\Api\bin\Debug\net6.0\runtimes\win-x64\n
 C:\Users\erfan\source\repos\reactivities\Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\erfan\source\repos\reactivities\Api\bin\Debug\net6.0\Humanizer.dll
 C:\Users\erfan\source\repos\reactivities\Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\MediatR.dll
+C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
