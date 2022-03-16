@@ -61,3 +61,5 @@ C:\Users\erfan\source\repos\reactivities\Api\bin\Debug\net6.0\Microsoft.EntityFr
 C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\MediatR.dll
 C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\erfan\source\repos\reactivities\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

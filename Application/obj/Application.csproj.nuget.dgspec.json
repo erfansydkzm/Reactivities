@@ -36,8 +36,8 @@
               "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -52,6 +52,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[10.0.1, )"
@@ -139,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
