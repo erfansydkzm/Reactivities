@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\api\\API.csproj": {}
+    "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\api\\API.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\api\\API.csproj",
-        "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\api\\obj\\",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\erfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -33,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj"
+              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -94,23 +89,18 @@
         }
       }
     },
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Application\\obj\\",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\erfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -123,11 +113,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -174,23 +164,18 @@
         }
       }
     },
-    "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\erfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -233,23 +218,18 @@
         }
       }
     },
-    "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\erfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erfan\\source\\repos\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\erfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -262,8 +242,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\erfan\\source\\repos\\reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

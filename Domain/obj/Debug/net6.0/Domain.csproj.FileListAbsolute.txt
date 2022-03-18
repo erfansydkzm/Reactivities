@@ -10,3 +10,15 @@ C:\Users\erfan\source\repos\reactivities\Domain\obj\Debug\net6.0\Domain.csproj.C
 C:\Users\erfan\source\repos\reactivities\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\erfan\source\repos\reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
 C:\Users\erfan\source\repos\reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\seyed\source\repos\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\seyed\source\repos\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\seyed\source\repos\Reactivities\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\seyed\source\repos\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\seyed\source\repos\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
