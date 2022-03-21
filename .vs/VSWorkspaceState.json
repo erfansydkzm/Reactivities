@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\API",
-    "\\API\\Controllers"
+    "\\client-app",
+    "\\client-app\\src",
+    "\\client-app\\src\\app",
+    "\\client-app\\src\\app\\layout"
   ],
-  "SelectedNode": "\\API\\Controllers\\BaseApiController.cs",
+  "SelectedNode": "\\client-app\\src\\app\\layout\\navbar.tsx",
   "PreviewInSolutionExplorer": false
 }

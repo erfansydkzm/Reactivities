@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj"
+              "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -113,11 +113,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj"
+              "C:\\Users\\seyed\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\seyed\\source\\repos\\reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\seyed\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\seyed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seyed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,8 +242,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Domain\\Domain.csproj"
               }
             }
           }

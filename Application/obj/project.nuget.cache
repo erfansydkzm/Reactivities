@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xx/d7/kLjRDfOBBaa+cy57I8NrhYuJfZhv1fokC6c6aNjJ+c0ZlhjjlsBx7up+JTGegGTMH7PFFdelMcouJe8g==",
+  "dgSpecHash": "aR3Sah+vSfzaKEg2Jk8yiPSVqarL9xJPgquBllvuoAWzXVbkHcy/FdvqJXwFXzfTezz6nuzW9XQ23uLoB9E0PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\seyed\\source\\repos\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seyed\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
