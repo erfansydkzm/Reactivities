@@ -42,7 +42,7 @@ function App() {
   }
 
   function handleDeleteActivity(id: string) {
-    setActivities({ ...activities.filter(x => x.id !== id) })
+    setActivities([...activities.filter(x => x.id !== id)])
   }
 
   return (
