@@ -1,8 +1,10 @@
 import { observer } from "mobx-react-lite";
 import React, { useEffect } from "react";
+import Calendar from "react-calendar";
 import { Grid } from "semantic-ui-react";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
 import { useStore } from "../../../app/stores/store";
+import ActivityFilters from "./ActivityFilters";
 import ActivityList from "./ActivityList";
 
 
@@ -13,7 +15,7 @@ export default observer(function ActivityDashboard() {
         if (activityRegistery.size <= 1) loadActivities();
     }, [activityRegistery.size, loadActivities])
 
-    if (activityStore.loadingInitial) return <LoadingComponent content='Loading App...' />
+    if (activityStore.loadingInitial) return <LoadingComponent content="Loading App..." />
 
     return (
         <Grid>
@@ -21,7 +23,8 @@ export default observer(function ActivityDashboard() {
                 <ActivityList />
             </Grid.Column>
             <Grid.Column width={'6'}>
-                <h2>Activity Filter</h2>
+                <ActivityFilters />
+                <Calendar></Calendar>
             </Grid.Column>
         </Grid >
     )
