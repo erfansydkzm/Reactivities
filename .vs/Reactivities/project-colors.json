@@ -10,7 +10,12 @@
       "ProjectGuid": "17b09562-9458-4f71-b849-292e9a473e51",
       "DisplayName": "API",
       "ColorIndex": 0
+    },
+    "03f81d29-6fda-4725-91ad-ca78108042f1": {
+      "ProjectGuid": "03f81d29-6fda-4725-91ad-ca78108042f1",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

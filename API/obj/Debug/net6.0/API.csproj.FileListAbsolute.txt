@@ -128,3 +128,6 @@ C:\Users\seyed\source\repos\Reactivities\api\obj\Debug\net6.0\API.dll
 C:\Users\seyed\source\repos\Reactivities\api\obj\Debug\net6.0\ref\API.dll
 C:\Users\seyed\source\repos\Reactivities\api\obj\Debug\net6.0\API.pdb
 C:\Users\seyed\source\repos\Reactivities\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

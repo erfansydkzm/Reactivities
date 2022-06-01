@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
-    "\\client-app",
     "\\client-app\\src",
     "\\client-app\\src\\app",
-    "\\client-app\\src\\app\\layout"
+    "\\client-app\\src\\app\\layout",
+    "\\Domain"
   ],
-  "SelectedNode": "\\client-app\\src\\app\\layout\\navbar.tsx",
+  "SelectedNode": "\\Domain\\Activity.cs",
   "PreviewInSolutionExplorer": false
 }
