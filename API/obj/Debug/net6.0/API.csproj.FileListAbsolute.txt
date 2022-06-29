@@ -69,7 +69,6 @@ C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\API.exe
 C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\API.deps.json
 C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\API.runtimeconfig.json
 C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\API.dll
-C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\ref\API.dll
 C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\API.pdb
 C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\seyed\source\repos\Reactivities\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -131,3 +130,4 @@ C:\Users\seyed\source\repos\Reactivities\api\obj\Debug\net6.0\API.genruntimeconf
 C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\seyed\source\repos\reactivities\api\obj\Debug\net6.0\refint\API.dll

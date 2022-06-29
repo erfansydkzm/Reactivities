@@ -17,7 +17,6 @@ C:\Users\erfan\source\repos\reactivities\Application\obj\Debug\net6.0\ref\Applic
 C:\Users\erfan\source\repos\reactivities\Application\obj\Debug\net6.0\Application.pdb
 C:\Users\seyed\source\repos\Reactivities\Application\bin\Debug\net6.0\Application.deps.json
 C:\Users\seyed\source\repos\Reactivities\Application\bin\Debug\net6.0\Application.dll
-C:\Users\seyed\source\repos\Reactivities\Application\bin\Debug\net6.0\ref\Application.dll
 C:\Users\seyed\source\repos\Reactivities\Application\bin\Debug\net6.0\Application.pdb
 C:\Users\seyed\source\repos\Reactivities\Application\bin\Debug\net6.0\Domain.dll
 C:\Users\seyed\source\repos\Reactivities\Application\bin\Debug\net6.0\Persistence.dll
@@ -32,3 +31,4 @@ C:\Users\seyed\source\repos\Reactivities\Application\obj\Debug\net6.0\Applicatio
 C:\Users\seyed\source\repos\Reactivities\Application\obj\Debug\net6.0\Application.dll
 C:\Users\seyed\source\repos\Reactivities\Application\obj\Debug\net6.0\ref\Application.dll
 C:\Users\seyed\source\repos\Reactivities\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\seyed\source\repos\reactivities\Application\obj\Debug\net6.0\refint\Application.dll
