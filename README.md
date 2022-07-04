@@ -1,2 +1,2 @@
 # Reactivities
-A simple blog with .NET and React technologies
+A simple blog with .NET and React technologies...
