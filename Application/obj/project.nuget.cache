@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u+qL2C3ePNglv0+YtUrNXNcc87584JD/9dzXFn87nLXLpYb3Yu2tzjt6QuXeIKZMh6ZEF8XGnaAA3lEKytXcEQ==",
+  "dgSpecHash": "XNg3ZZ/1tutM9Ch/lU3UcDnO8UgTlDEMBrFDX4ce2/FQNbTVhPJdSu2U4+s8AOCgZ2SszEFPW+XP6rLJBpxQog==",
   "success": true,
   "projectFilePath": "C:\\Users\\seyed\\source\\repos\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,9 @@
     "C:\\Users\\seyed\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\seyed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.2\\microsoft.aspnetcore.cryptography.internal.6.0.2.nupkg.sha512",
+    "C:\\Users\\seyed\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.2\\microsoft.aspnetcore.cryptography.keyderivation.6.0.2.nupkg.sha512",
+    "C:\\Users\\seyed\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.2\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.2.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.2\\microsoft.data.sqlite.core.6.0.2.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
@@ -26,6 +29,8 @@
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.2\\microsoft.extensions.identity.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.2\\microsoft.extensions.identity.stores.6.0.2.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\seyed\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

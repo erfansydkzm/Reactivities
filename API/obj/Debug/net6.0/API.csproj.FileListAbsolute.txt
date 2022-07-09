@@ -130,4 +130,9 @@ C:\Users\seyed\source\repos\Reactivities\api\obj\Debug\net6.0\API.genruntimeconf
 C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\seyed\source\repos\reactivities\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\seyed\source\repos\reactivities\api\bin\Debug\net6.0\ref\API.dll
+C:\Users\seyed\source\repos\Reactivities\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\seyed\source\repos\Reactivities\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\seyed\source\repos\Reactivities\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\seyed\source\repos\Reactivities\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\seyed\source\repos\Reactivities\Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
