@@ -23,13 +23,13 @@ export default observer(function ActivityForm() {
     const history = useHistory();
     const { loading, loadActivity, loadingInitial, updateActivity, createActivity } = activityStore;
     const { id } = useParams<{ id: string }>();
-    const [activity, setActivity] = useState({
+    const [activity, setActivity] = useState<Activity>({
         id: '',
         title: '',
         category: '',
         city: '',
         venue: '',
-        date: '',
+        date: null,
         description: ''
     });
     const validationSchema = yup.object({
