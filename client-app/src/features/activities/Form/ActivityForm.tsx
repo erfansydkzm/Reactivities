@@ -1,7 +1,7 @@
 import { observer } from "mobx-react-lite";
 import { useEffect, useState } from "react";
 import { Link, useHistory, useParams } from "react-router-dom";
-import { Button, Segment } from "semantic-ui-react";
+import { Button, Header, Segment } from "semantic-ui-react";
 import React from "react";
 import LoadingComponent from "../../../app/layout/LoadingComponent";
 import { useStore } from "../../../app/stores/store";
@@ -36,7 +36,7 @@ export default observer(function ActivityForm() {
         title: yup.string().required('The activity title is required'),
         description: yup.string().required('The activities description is required'),
         category: yup.string().required(),
-        date: yup.string().required(),
+        date: yup.string().required('Date is required').nullable(),
         city: yup.string().required(),
         venue: yup.string().required()
     })
@@ -67,11 +67,15 @@ export default observer(function ActivityForm() {
         }
     }
 
-
     if (loadingInitial) return <LoadingComponent content="Loading Activity..." />
     return (
         <Segment clearing>
-            <Formik validationSchema={validationSchema} enableReinitialize initialValues={activity} onSubmit={values => handleFormSubmit(values)}>
+            <Header content='Activity Details' sub color="teal"></Header>
+            <Formik
+                validationSchema={validationSchema}
+                enableReinitialize
+                initialValues={activity}
+                onSubmit={values => handleFormSubmit(values)}>
                 {({ handleSubmit, isSubmitting, isValid, dirty }) => (
                     <Form className="ui form" onSubmit={handleSubmit} autoComplete='off'>
                         <MyTextInput name='title' placeholder='Title' />
@@ -84,10 +88,12 @@ export default observer(function ActivityForm() {
                             timeCaption="time"
                             dateFormat='MMMM dd, yyyy h:mm aa'
                         />
+                        <Header content='Location Dirty' sub color="teal"></Header>
                         <MyTextInput placeholder='City' name='city' />
                         <MyTextInput placeholder='Venue' name='venue' />
                         <Button
                             loading={isSubmitting}
+                            disabled={isSubmitting || !dirty || !isValid}
                             floated="right"
                             positive
                             type="submit"

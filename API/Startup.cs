@@ -20,6 +20,7 @@ namespace API
                 config.RegisterValidatorsFromAssemblyContaining<Application.Activities.Create>();
             });
             services.AddApplicationServices(_config);
+            services.AddIdentityServices(_config);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
